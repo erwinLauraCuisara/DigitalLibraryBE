@@ -1,3 +1,4 @@
+Build on .net 8
 
 Create a database in SQL SERVER named digitalLibrary
 
