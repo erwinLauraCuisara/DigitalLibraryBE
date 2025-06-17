@@ -1,0 +1,15 @@
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\bin\Debug\net8.0\DigitalLibraryBe.Application.deps.json
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\bin\Debug\net8.0\DigitalLibraryBe.Application.dll
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\bin\Debug\net8.0\DigitalLibraryBe.Application.pdb
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\bin\Debug\net8.0\DigitalLibraryBe.Domain.dll
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\bin\Debug\net8.0\DigitalLibraryBe.Domain.pdb
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.csproj.AssemblyReference.cache
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.AssemblyInfoInputs.cache
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.AssemblyInfo.cs
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.csproj.CoreCompileInputs.cache
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.csproj.CopyComplete
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.dll
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\refint\DigitalLibraryBe.Application.dll
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\DigitalLibraryBe.Application.pdb
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Application\obj\Debug\net8.0\ref\DigitalLibraryBe.Application.dll

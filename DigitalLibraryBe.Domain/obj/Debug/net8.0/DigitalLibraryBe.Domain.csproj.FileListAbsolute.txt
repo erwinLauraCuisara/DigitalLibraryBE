@@ -1,0 +1,11 @@
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\bin\Debug\net8.0\DigitalLibraryBe.Domain.deps.json
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\bin\Debug\net8.0\DigitalLibraryBe.Domain.dll
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\bin\Debug\net8.0\DigitalLibraryBe.Domain.pdb
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\DigitalLibraryBe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\DigitalLibraryBe.Domain.AssemblyInfoInputs.cache
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\DigitalLibraryBe.Domain.AssemblyInfo.cs
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\DigitalLibraryBe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\DigitalLibraryBe.Domain.dll
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\refint\DigitalLibraryBe.Domain.dll
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\DigitalLibraryBe.Domain.pdb
+C:\Users\arnol\source\repos\DigitalLibraryBE\DigitalLibraryBe.Domain\obj\Debug\net8.0\ref\DigitalLibraryBe.Domain.dll
